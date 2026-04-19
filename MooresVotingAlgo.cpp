@@ -1,3 +1,12 @@
+// QUESTION1: Majority Element (Classic)
+
+// 👉 Given an array, find the element that appears more than n/2 times.
+
+// Example:
+
+// Input: [3, 2, 3]
+// Output: 3
+
 #include <iostream>
 using namespace std;
 int main ()
